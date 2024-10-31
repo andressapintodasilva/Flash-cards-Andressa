@@ -10,12 +10,14 @@ criaCartao(
     'Floresta Amazônica'
 )
 criaCartao(
-    'Ciências'
+    'Biologia'
     'O que os pandas comem?',
     'Bambu'
 )
 criaCartao(
-    
+    'Biologia'
+    'Que fruto nasce da oliveira?',
+    'Azeitona'
 
 
 )
