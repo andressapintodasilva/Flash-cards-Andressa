@@ -1,0 +1,1 @@
+function criaCartao( agoia,prunas,respostas)
