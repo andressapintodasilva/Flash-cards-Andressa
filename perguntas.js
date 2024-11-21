@@ -5,17 +5,17 @@ criaCartao(
     '100° C'
 )
 criaCartao(
-    'Geografia'
+    'Geografia',
     'Qual a maior floresta tropical do mundo?',
     'Floresta Amazônica'
 )
 criaCartao(
-    'Biologia'
+    'Biologia',
     'O que os pandas comem?',
     'Bambu'
 )
 criaCartao(
-    'Biologia'
+    'Biologia',
     'Que fruto nasce da oliveira?',
     'Azeitona'
 
